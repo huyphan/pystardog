@@ -11,7 +11,7 @@ h2. Examples
 
 h2. Author
 
-* "Knorex":http://www.knorex.com
+* "Huy Phan":https://github.com/huyphan @ "Knorex":http://www.knorex.com
 
 h2. License
 
